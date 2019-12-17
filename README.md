@@ -3,7 +3,7 @@
 For operational functions for the CCDH.
 
 ## Team members
-(Internal use only) A list of team members and workstreams is available [here](https://docs.google.com/spreadsheets/d/1WJzVbBjzAvL49G3pdk4Z_m67EliWhdUGUAnOOA2YJlQ/edit#gid=623566232)
+(_Internal use only_) A list of team members and workstreams is available [here](https://docs.google.com/spreadsheets/d/1WJzVbBjzAvL49G3pdk4Z_m67EliWhdUGUAnOOA2YJlQ/edit#gid=623566232)
 
 ## Competency queries
 
